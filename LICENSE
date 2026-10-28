@@ -1,0 +1,34 @@
+Mail Assistant Personal Use License 1.0
+
+Copyright (c) 2026 yangggggsx, to the extent of the author's copyright.
+
+1. Individuals may download, copy, independently deploy, use and modify this
+   software without charge for their own personal use. This includes an
+   individual's use to process their own work email.
+
+2. Selling this software, charging for its deployment, or using it to provide
+   a paid service requires prior, separate written commercial permission from
+   the copyright holder. Fees and the permitted scope must be agreed separately.
+   This license does not grant general commercial-use permission.
+
+3. Copyright is not transferred. Keep copyright and license notices in copies.
+   Redistribution of the software or modified versions and organization-wide
+   deployment are not granted by this license and require separate permission.
+   This does not restrict rights independently provided by applicable law or
+   GitHub's terms for viewing and forking a public repository on GitHub.
+
+4. This license covers the author's code and documentation in this repository,
+   including those distributed in mail-assistant-skill.zip. Third-party
+   components remain subject to their own licenses; this license does not
+   replace or restrict rights granted by those third-party licenses.
+
+5. The software is provided as is, without warranties, to the extent permitted
+   by applicable law. Users configure and operate their own services and are
+   responsible for their credentials, data and service charges.
+
+Commercial authorization: contact the repository owner, yangggggsx, through
+the repository's GitHub Issues to request a contact route. Do not post secrets,
+personal email content or confidential business details in a public issue.
+
+This is a source-available personal-use license, not an OSI-approved open-source
+license. Older copies without this license do not imply commercial permission.

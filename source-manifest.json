@@ -2,7 +2,7 @@
   "files": {
     ".gitignore": "b0edb3c1545099ba0481f773c8528f4aaaba34bee410d8a42f1c1ba0ff00fa29",
     "LICENSE": "2cab7795c6cb1cd0bdf4a9f7317253591777d07415657d239501653f48d524bf",
-    "README.md": "d59cb0c969db89c9f7cbe7a72bd7f4d2a97cedd08def7cfc3760dc49ac991273",
+    "README.md": "b94b4e1cda9d173dd4af0704d6d187a0406b6e6a859c1cf3d1d4da7a1e99e71b",
     "RELEASE_READINESS.md": "a9a4b7ef33ab5899c5c5a5ffa265e7c6a45df88b29a8fac5dcfc2477a56dfaf5",
     "SOURCE_IMPORT.md": "7dc78b15455b6f675cf0891f86df01d1c3b36d520b80ddf2cf03ebd7a62d2797",
     "VALIDATION.md": "b8aa0371d6fc0a156fcdc154ea830b9039d93ac0cae6af492549a9d6a86d5530",
@@ -65,18 +65,18 @@
     "skills/mail-assistant/assets/worker/src/translation-stream.test.mjs": "ce69448653da69e84597e28711bc240591ad103a15ab810735fa15e3c7a14880",
     "skills/mail-assistant/assets/worker/src/translation-wait.js": "dc8af5c84e92b99170b6c78464d795b5d99fb1ab87e496917b7534ab000dd594",
     "skills/mail-assistant/assets/worker/src/translation-wait.test.mjs": "0434c0e4feaf9e971e7555d61714a62b8cd55db46d3ac76c1ca37ee881dad4d3",
-    "skills/mail-assistant/references/acceptance.md": "cceab1bb280a71a3bc8fa83482a2a5c581cc4392561ce080d6032cc539d62c26",
+    "skills/mail-assistant/references/acceptance.md": "166ec108b613c715f8dd99c524e7d8cff131290a30ebefba4e23623eabbc38fe",
     "skills/mail-assistant/references/architecture.md": "aee85c473d381e1f37e65281b6537d87e023ee636a17dd773984fe27c99c74a6",
     "skills/mail-assistant/references/deployment.md": "d9b58a9696b200775cb0ee8b6a67be1685096328fcde5cd38d7a3164e61ac239",
-    "skills/mail-assistant/references/getting-started.md": "dca0bb51a618f3affb9c0541ea4b00a2d2d475a5a1733fefc6769883f4acbf07",
+    "skills/mail-assistant/references/getting-started.md": "eb33c9376570d1add1d77535ae4001a6f4aa044da5ea00de88941f35551eaa9e",
     "skills/mail-assistant/references/lifecycle.md": "be45f0c351560506e021701acf5005ad76e1af9d613c1f1db56f5ad17f713cb9",
     "skills/mail-assistant/references/operations.md": "207a9f905b6d0063f4194ccae72cfe14288f38405a885673a6b64f567dc95b7f",
     "skills/mail-assistant/references/privacy.md": "b96a9dfec5c6bc44fcc8da46027e7eec69262ed6e10a73980ffda83042e1b21d",
-    "skills/mail-assistant/references/shortcuts.md": "260b22e0be532f404f08e60ed71773be0aeef6ecc7fccff74af5f973cc813830",
+    "skills/mail-assistant/references/shortcuts.md": "dbe79e6ee968b815b16adcc63a2569ca7fd044f83d50cd73afd693dba1fb14cb",
     "skills/mail-assistant/scripts/configure.py": "2be53ecac4724a44542a95916c7b77f583d81b7d02fa7dd986ece0662005c916",
     "skills/mail-assistant/scripts/test_configure.py": "45e4e0b3b9a86bab3856cd7de57ab6d67093e4a44178b8bfd538179b0a9dcb2a",
     "tools/package_release.py": "69bd0bc078cf5fd2081bb8f36598b1fd2262588c6b20f9221d0af1d2926b77f1"
   },
-  "source_commit": "357a8f5f1fd08e2382c67910cbc4a04ebf99905c",
-  "zip_sha256": "d159b1fcec8e18f6edcfcf10472c2109daa61d404a4b118a681c7017668aa571"
+  "source_commit": "ac470ab8fed74689bb45ac0bca7915cd6d996d0a",
+  "zip_sha256": "28e326054554111d94b7d9f1c1fcbbd81598dbf7726f86da5508ac3e6b01525a"
 }
